@@ -32,7 +32,6 @@ A full-stack fitness and nutrition assistant powered by **AI** or an **API** to 
 - 🏃 **Workout Planner**: Balanced workouts combining cardio, strength, and recovery.  
 - 💾 **Save Plans to File**: Export your personalized plans in **JSON**, **PDF**, or **TXT** format for future use or to query the API.
 
----
 
 ### 🌐 Portfolio Website – Built for Growth and Innovation
 A personal hub for showcasing my **current and future projects** in software development and daily activities.  
