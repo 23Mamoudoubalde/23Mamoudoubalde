@@ -21,7 +21,9 @@ My current focus is on expanding my skills in problem solving and exploring the 
 
 ---
 
-### 🚀 Future Project: FullWorkout AI
+### 🚀 Future Project: 
+
+### FullWorkout AI
 A full-stack fitness and nutrition assistant powered by **AI** or an **API** to generate personalized workout and meal plans based on your goals — starting with **weight loss**.
 
 **🔑 Key Features:**
