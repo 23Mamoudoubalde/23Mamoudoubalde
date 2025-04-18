@@ -1,52 +1,52 @@
-## Hi there 👋,
+## Hi there 👋
 
+### I’m Mamoudou
 
- I’m Mamoudou 
-💻 I’m passionate about building software that solves real-world problems.
-My current focus is on expanding my skills in problems solving and exploring the endless possibilities it offers.
+💻 I’m passionate about building software that solves real-world problems.  
+My current focus is on expanding my skills in problem solving and exploring the endless possibilities technology offers.
 
-**🛠️ Languages & Tools I Use:**
+---
 
-**Python** for scripting, data handling, and AI experiments
+### 🛠️ Languages & Tools I Use:
+- **Python**: For scripting, data handling, and AI experiments  
+- **C++** & **Java**: For performance-focused and object-oriented applications  
+- **JavaScript**, **HTML/CSS**: For crafting interactive and responsive user interfaces  
 
-**C++** and **Java** for performance-focused and object-oriented applications
+---
 
-**JavaScript**, **HTML/CSS** for crafting interactive and responsive user interfaces
+### 🔭 What I’m Working On:
+- Diving deeper into **algorithms** and **software architecture**
+- Building **full-stack projects**
+- Experimenting with **machine learning models**
 
-**🔭 What I’m working on:**
+---
 
-Learning deeper concepts in algorithms and software architecture
+### 🚀 Future Project: FullWorkout AI
+A full-stack fitness and nutrition assistant powered by **AI** or an **API** to generate personalized workout and meal plans based on your goals — starting with **weight loss**.
 
-Building full-stack projects and experimenting with machine learning models
+**🔑 Key Features:**
+- 🎯 **Goal-Driven Input**: Choose your goal (e.g., *Lose Weight*) and get AI-curated workouts and meals instantly.  
+- 🍽️ **Meal Recommendations**: Calorie-conscious meal plans tailored to your profile.  
+- 🏃 **Workout Planner**: Balanced workouts combining cardio, strength, and recovery.  
+- 💾 **Save Plans to File**: Export your personalized plans in **JSON**, **PDF**, or **TXT** format for future use or to query the API.
 
-**Future Project:**
+---
 
-**FullWorkout AI** will be a full-stack fitness and nutrition assistant that uses AI or an API to generate personalized workout and meal plans based on your goals—starting with weight loss.
+### 🌐 Portfolio Website – Built for Growth and Innovation
+A personal hub for showcasing my **current and future projects** in software development and daily activities.  
+Includes live demos, GitHub links, project insights, and more!
 
-🔑 Key Features:
+---
 
-🎯 Goal-Driven Input: Choose your goal (e.g., "Lose Weight") and get AI-curated workouts and meals instantly.
+### 🌱 Always Exploring
+I love diving into different areas of computer science to gain a broader perspective and sharpen my problem-solving mindset.  
+Each new challenge is an opportunity to **learn**, **build**, and **innovate**.
 
+---
 
-🍽️ Meal Recommendations: Suggests calorie-conscious meals tailored to your weight loss needs.
+### 📬 Let’s Connect!
+🔗 [LinkedIn](https://www.linkedin.com/in/m-balde)
 
-
-🏃 Workout Planner: Recommends daily workouts, combining cardio, strength, and recovery tailored to your profile.
-
-
-💾 Save Plans to File: Save your personalized plans (JSON, PDF, or txt format) for future use or API reference.
-
-
-**Portfolio**
-
-🌐 Personal Portfolio Website – Built for Growth and Innovation 🚀
-This dynamic portfolio website serves as a personal hub for showcasing my current and future projects in software development or daily activities
-
-
-**🌱 Always Exploring:**
-
-I love to dive into different areas of computer science to gain a broader perspective and sharpen my problem-solving mindset. Each new challenge is an opportunity to grow and innovate.
-**📬 Let’s Connect:** www.linkedin.com/in/m-balde
 
 
 
